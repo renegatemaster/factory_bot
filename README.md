@@ -43,7 +43,6 @@ source api.env
 
 Если у вас ещё нет аккаунта в телеграм и своего бота:
  - [Скачайте](https://desktop.telegram.org/) Telegram и зарегистрируйтесь
- - Узнайте ID вашего аккаунта с помощью [специального бота](https://t.me/userinfobot)
  - В поиске чатов найдите [BotFather](https://t.me/BotFather) и создайте свего бота командой `/newbot`
  - Получите токен бота от BotFather командой `/token`
 
