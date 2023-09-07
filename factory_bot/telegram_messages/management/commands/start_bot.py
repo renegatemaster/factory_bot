@@ -1,9 +1,8 @@
-# from django.conf import settings
+from django.conf import settings
 from django.core.management.base import BaseCommand
 from telegram import Update
 from telegram.ext import CommandHandler, Filters, MessageHandler, Updater
 
-from factory_bot.factory_bot import settings
 from users.models import User
 
 
